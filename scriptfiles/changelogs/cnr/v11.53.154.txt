@@ -1,0 +1,4 @@
+(-) Passive mode has been removed from the game. (Spawn protection still exists.)
+(*) LEO Commands now check to see if a player is dead or not prior to casting.
+(*) Personal Vehicle commands, such as /v park, should now work while in the water.
+(/) Stephanie now sends a random message every 60 seconds rather than 30.

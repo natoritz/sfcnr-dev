@@ -1,0 +1,4 @@
+(+) Adds /(demp)disableemp to reinitialize a recently EMP'd vehicle.
+(+) Adds /(un)chatban to ban low quality members from chat instead of banning.
+(+) Adds /chatbanlist to view all online chat banned members.
+(*) Moved /smlog and /iclog for admins into their correct level section of /acmds.

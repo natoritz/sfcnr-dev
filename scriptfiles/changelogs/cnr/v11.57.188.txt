@@ -1,0 +1,3 @@
+(+) Newly registered players are now given 10 Bobby Pins upon registration.
+(/) Automatic Weapons and (some) Explosives ammo amounts have been improved within the Ammunations.
+(*) Turfs now pay out on taking over an area AND every 24 hours. (Payouts based on ACTIVE online gang members.)

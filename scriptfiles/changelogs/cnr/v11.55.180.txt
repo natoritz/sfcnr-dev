@@ -1,0 +1,7 @@
+(+) Adds /(bc)breakcuffs back as a command.
+(/) Lowers the successful /bc attempt down from 75% to 50%.
+(/) /healall only heals players within the admin's world.
+(*) /rules has been updated.
+(*) Administrators should no longer get wanted after spectating a jailed player in Alcatraz.
+(*) Business banks are withdrawn upon selling a business.
+(-) You can no longer place vehicle spike strips with a keypress.

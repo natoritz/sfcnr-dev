@@ -1,0 +1,5 @@
+(*) Reduce time to read rules after buying the car to 10 secs
+(*) Remove few unused announcement messages
+(*) Increase jail time multiplier to wanted level to 3 (before it was 2)
+(*) Disable giving wanted level when surfing criminal car
+(*) Increase jailing AFK player who has wanted level after 1 min of AFK instead of 45 secs

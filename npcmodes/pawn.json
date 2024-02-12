@@ -1,0 +1,10 @@
+{
+	"user": "ChronosXYZ",
+	"repo": "sfcnr-npcmodes",
+	"tag": "0.0.1",
+	"entry": "secureguard.pwn",
+	"output": "secureguard.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	]
+}

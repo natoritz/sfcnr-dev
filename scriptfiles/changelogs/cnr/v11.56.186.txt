@@ -1,0 +1,5 @@
+(+) Added back the old gang turf system, utilizing /takeover once again. (Thank you, Stev.)
+(*) Removed the [GOLD VIP] before armour in the V.I.P. Lounge.
+(*) /levels now correctly shows your levels and/or other player's levels.
+(*) /circleall now requires parameters to be filled prior to casting the command.
+(*) Burglars should no longer get a distance-related message when entering a vehicle.

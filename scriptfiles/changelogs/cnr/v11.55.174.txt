@@ -1,0 +1,6 @@
+(+) /detain and it's dropoff points are now active.
+(/) City Harpoints have been adjusted to only fit the inner-city limits.
+(/) XP Market and /perks are now based off Deathmatch and Robbery XP.
+(*) Fixes the ID requirement for /taze, /cuff, and /arrest
+(*) Detain no longer requires an ID to be put into the parameters.
+(*) The server no longer thinks a player being detained is a cheating individual.

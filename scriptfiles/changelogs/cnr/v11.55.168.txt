@@ -1,0 +1,15 @@
+(+) You can now disable global gambling messages in /cp.
+(+) /discord now displays what the discord server URL is.
+(+) /cmds -> V.I.P. Commands now displays a list of V.I.P. commands.
+(+) Players below 50 score, playing as a LEO, will now have a help dialog on how to arrest.
+(/) The old arrest system, which is command-based, has been added back. (MMB Disabled)
+(/) Regular V.I.P. players are now allowed to send IC with /ic send.
+(/) /admins only requires 50 score now.
+(/) The MOTD will now be preset upon server startup.
+(*) Removes the ability to farm points within the Casino on a $0 payout.
+(*) Fixed issue with /spawn not allowing 100+ houses to appear.
+(*) A typo in /acmds has been fixed.
+(*) Fixed an issue with /chatban showing the wrong player name.
+(-) You are no longer able to use /perks while in an army vehicle.
+
+Note: All bans and CAC forces have been lifted. (Except for Chargeback-related bans)

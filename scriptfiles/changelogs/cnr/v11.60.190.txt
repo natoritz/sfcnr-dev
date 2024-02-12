@@ -1,0 +1,9 @@
+(+) Cloudy's advanced event system has been added.
+(+) Night's discord implementation has been added.
+(/) "/estate" now works on a cash basis. Homes are traded for in-game money.
+(/) Fee for real estate reduced to $50,000 per home.
+(/) Players will lose only 5% of their stock if it drops 80% in a day.
+(/) Full reversion of the turf war system to how it was pre-hardpoint.
+(/) You need Bronze V.I.P to send Irresistible Coins.
+(/) Army is now vulnerable to damage in rhinos.
+(/) Police are now paid 10% extra.

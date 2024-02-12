@@ -1,0 +1,6 @@
+(+) Typing "/boombox play" again while your boombox is active will update the stream.
+(+) "/jackpots" added. Shows the current casino slot machine jackpots.
+(+) "/colors" added for people curious about vehicle colors.
+(+) You can now sell your casino points for in-game money.
+(/) Vehicle component placement overhaul. Accurately and easily place vehicle components!
+(*) Kill death ratio is unaffected now during events.

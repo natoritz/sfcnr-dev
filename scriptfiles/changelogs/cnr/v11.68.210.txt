@@ -1,0 +1,8 @@
+(+) New players are given $5,000 when they register.
+(+) Police level over 75 will half the number of seconds you spend in jail.
+(+) Success rate of bobby pins doubles every 25th police level.
+(+) Bail is reduced up to a maximum of 80% with every police level.
+(/) Payout for robberies in LS and LV has been reduced.
+(/) Fireman minimum pay increased, maximum set to $5,000 though per fire.
+(*) Adds map loading/unloading functionality to event module.
+(*) All fires are remade after an in-game day.

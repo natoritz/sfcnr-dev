@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.gitignore": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/npcmodes": true,
+			"**/plugins": true,
+			"**/archive": true,
+			"**/old_pawn": true,
+			"**/*.exe": true,
+			"**/*.dll": true,
+			"**/*.so": true,
+			"**/*.pdb": true,
+			"**/*.amx": true,
+			"**/*.rar": true,
+			"**/*.zip": true,
+			"**/*.*.old": true,
+			"include": true,
+		},
+		"workbench.colorCustomizations": {
+			"titleBar.activeBackground": "#009acc",
+			"titleBar.inactiveBackground": "#009acc99",
+			"titleBar.activeForeground": "#e7e7e7",
+			"titleBar.inactiveForeground": "#e7e7e799",
+			"statusBar.background": "#009acc",
+			"statusBarItem.hoverBackground": "#00c1ff",
+			"statusBar.foreground": "#e7e7e7"
+		},
+		"peacock.color": "#00C0FF"
+	}
+}

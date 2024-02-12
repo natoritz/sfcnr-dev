@@ -1,0 +1,3 @@
+(+) Easter Egg treasure hunts are not happening for Easter! /treasures
+(*) Fixed an issue with being detained and then /bc'ing out of it.
+(*) Fixed an issue with /bc throwing an "Invalid Command" message when failing.
